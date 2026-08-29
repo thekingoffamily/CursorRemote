@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!releases/
+!releases/.gitkeep
+!releases/*.exe
