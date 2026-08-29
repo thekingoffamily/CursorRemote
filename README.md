@@ -1,0 +1,2 @@
+# CursorRemote
+CursorRemote - локальный сервер
