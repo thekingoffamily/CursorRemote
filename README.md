@@ -42,3 +42,10 @@
 
 Не связан с Anysphere / Cursor IDE. Not affiliated with Anysphere.  
 Мы просто любим кодить не только из-за стола. 🧑‍💻📱
+
+## Лицензия
+
+Брать и форкать можно. Обязательна видимая ссылка на  
+https://github.com/thekingoffamily/CursorRemote  
+Текст: [LICENSE](LICENSE)
+
